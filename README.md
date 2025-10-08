@@ -42,5 +42,3 @@
 </p>
 
 ---
-
-> ✨ “El mejor error es aquel del que aprendes algo nuevo.” — *Frainx-06*

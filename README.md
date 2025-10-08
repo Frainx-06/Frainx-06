@@ -1,5 +1,7 @@
+<h1 align="center">
+  # 👋 ¡Hola! Soy Frainx-06
+</h1>
 
-# 👋 ¡Hola! Soy Frainx-06
 
 💻 **Desarrollador en crecimiento | Apasionado por la tecnología y el aprendizaje continuo**
 

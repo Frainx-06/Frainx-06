@@ -18,7 +18,6 @@
 ---
 
 ## 🏗️ Proyectos destacados
-> 🚧 *Aquí puedes agregar tus proyectos favoritos o más representativos. Actualízalos cuando quieras.*
 
 - 🔹 [Proyecto 1](https://github.com/Frainx-06/proyecto1): Sistema de gestión en **Python**.
 

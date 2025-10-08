@@ -17,5 +17,31 @@
 
 ---
 
+## 🏗️ Proyectos destacados
+> 🚧 *Aquí puedes agregar tus proyectos favoritos o más representativos. Actualízalos cuando quieras.*
+
+- 🔹 [Proyecto 1](https://github.com/Frainx-06/proyecto1): Sistema de gestión en **Python**.
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frainx-06&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frainx-06&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+---
+
 ## 📫 Contacto
-- GitHub: [Frainx-06](https://github.com/Frainx-06)
+<p align="center">
+  <a href="https://github.com/Frainx-06">
+    <img src="https://img.shields.io/badge/GitHub-Frainx--06-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+> ✨ “El mejor error es aquel del que aprendes algo nuevo.” — *Frainx-06*

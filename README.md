@@ -1,5 +1,5 @@
 <div align="center">
-  #Sobre mi
+  ##Sobre mi 
   -------------------
   Actualmente soy estudiante de segundo de DAM y estoy trabajando mi TFG, además de desarrollar otros proyectos para seguir mi formacion 
 

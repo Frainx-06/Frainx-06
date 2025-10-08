@@ -3,6 +3,8 @@
 
 💻 **Desarrollador en crecimiento | Apasionado por la tecnología y el aprendizaje continuo**
 
+![snake gif](https://github.com/Frainx-06/Frainx-06/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🚀 Sobre mí

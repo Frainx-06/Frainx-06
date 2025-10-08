@@ -3,8 +3,6 @@
 
 💻 **Desarrollador en crecimiento | Apasionado por la tecnología y el aprendizaje continuo**
 
-![snake gif](https://github.com/Frainx-06/Frainx-06/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🚀 Sobre mí
@@ -13,6 +11,12 @@
 - 🌱 Actualmente estoy aprendiendo **Git/GitHub**.
 
 ---
+<!--Languages and Tools Section-->       
+<h2 align="center">Lenguajes</h2> 
+<p align="center">
+  <img width="400px" src="https://skillicons.dev/icons?i=python,java,kotlin,postgres&perline=4" />
+</p>
+<br />
 
 ## 🛠️ Tecnologías y herramientas
 ### Lenguajes

@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 ¡Aloo! Soy Frainx-06</h1>
+  <h1>👋 ¡Hola! Soy Frainx-06</h1>
 </p>
 
 ## 🧾 Sobre mí

@@ -19,7 +19,7 @@
 
 ## 🏗️ Proyectos destacados
 
-- 🔹 [Proyecto 1](https://github.com/Frainx-06/proyecto1): Sistema de gestión en **Python**.
+- 🔹 [Proyecto 1](https://github.com/Frainx-06/Videojuego_Lariux): Videojuego con **Pygame** en **Python**.
 
 ---
 

@@ -6,7 +6,7 @@
 - 💻 **Desarrollador en crecimiento** | Apasionado por la tecnología y el aprendizaje continuo.  
 - 🎯 Siempre buscando mejorar mis habilidades en desarrollo y aprender cosas nuevas.  
 - 🧠 Me interesan las **bases de datos**, la **automatización** y el **BackEnd**.  
-- 🌱 Actualmente estoy aprendiendo **Git/GitHub** y perfeccionando **Kotlin** y **Python**.
+- 🌱 Actualmente estoy aprendiendo **Angular** y **Spring Boot**.
 
 ---
 
